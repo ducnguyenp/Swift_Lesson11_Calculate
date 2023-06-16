@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  InspoQuotes
+//  Calculator
 //
-//  Created by Angela Yu on 18/08/2019.
+//  Created by Angela Yu on 10/09/2019.
 //  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
